@@ -88,13 +88,6 @@ B.Tech in Mechanical Engineering at Indian Institute of Technology, Indore. Deep
 ![Modal](https://img.shields.io/badge/Modal-000000?style=for-the-badge&logo=modal&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CoderSATTY&layout=compact&theme=radical&hide_border=true)
-
-</div>
 
 ## 📫 Connect with Me
 
