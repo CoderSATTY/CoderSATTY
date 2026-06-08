@@ -1,6 +1,9 @@
 # Hi there, I'm Satyam Ashtikar 👋
 
 <div align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250" alt="Coding Cat"/>
+  <br/>
+  <br/>
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/satyam-ashtikar-22369331b)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sattyashtikar@gmail.com)
@@ -88,6 +91,27 @@ B.Tech in Mechanical Engineering at Indian Institute of Technology, Indore. Deep
 ![Modal](https://img.shields.io/badge/Modal-000000?style=for-the-badge&logo=modal&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white)
 
+
+## 💼 Experience
+
+During my professional journey, I have had the opportunity to contribute to impactful roles in AI and Data Science:
+
+- **ML & DevOps Intern @ Insurge AI** *(Dec 2025 – Mar 2026)*  
+  I engineered and deployed scalable, agentic pipelines using GCP and WebSockets for real-time responsiveness. Additionally, I optimized sophisticated TTS/STT architectures, fine-tuning the Kokoro TTS model to achieve lightning-fast audio generation with a 2.5x real-time factor, effectively cutting inference latency down to just 400ms.
+
+- **Data Scientist Intern @ Stockhunt INC.** *(May 2025 – July 2025)*  
+  I focused on advanced algorithmic trading by developing Attention mechanisms and LSTM time-series models. I built robust data extraction pipelines for TradingView, enabling live ticker streaming. By fusing high-frequency data with news sentiment analysis, I successfully deployed rolling forecast systems that achieved a 56.4% directional accuracy and a strong 1.38 Sharpe ratio.
+
+## 🌟 Open Source & Achievements
+
+- **PyTorch Contributor**: Actively contributed to the core PyTorch library by fixing missing allocator guards in `torch.accelerator.memory` to resolve RuntimeError crashes ([PR #186269](https://github.com/pytorch/pytorch/pull/186269)).
+- **Leadership**: Serving as the Head of the Machine Learning Domain at Google Developer Groups (GDG), IIT Indore, and Co-Head at Cynaptics Club.
+- **Bronze Medal @ Inter IIT**: Clinched the Bronze Medal at the prestigious Inter IIT Tech Meet 14.0, achieving an impressive 9th place overall rank among all IITs in the project category.
+- **Bronze Medal @ IITI SoC**: Won Bronze at the IITI Summer of Code (among 100+ teams and 400+ participants).
+- **Competitive Programming**: Solved 300+ advanced algorithmic problems across platforms.
+  - **LeetCode**: [@WhileTrueSatty](https://leetcode.com/u/WhileTrueSatty/)
+  - **Codeforces**: [@Satty80085](https://codeforces.com/profile/Satty80085) (Max 1220, Pupil)
+  - **Deep-ML**: [@Satyam Ashtikar](https://www.deep-ml.com/profile/F7UE7evmlJfuJ2ujaFYZgZI5PAJ2)
 
 ## 🏆 Certifications
 
