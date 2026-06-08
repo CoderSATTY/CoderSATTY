@@ -89,6 +89,67 @@ B.Tech in Mechanical Engineering at Indian Institute of Technology, Indore. Deep
 ![n8n](https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white)
 
 
+## 🏆 Certifications
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <a href="./credentials/insurge-certificate.png">
+        <img src="./credentials/insurge-certificate.png" width="100%" alt="InsurgeAI">
+      </a>
+      <br><b>InsurgeAI</b>
+    </td>
+    <td align="center" width="33%">
+      <a href="./credentials/StockHunt.png">
+        <img src="./credentials/StockHunt.png" width="100%" alt="StockHunt">
+      </a>
+      <br><b>StockHunt</b>
+    </td>
+    <td align="center" width="33%">
+      <a href="./credentials/Neural_Networks_and_DL.png">
+        <img src="./credentials/Neural_Networks_and_DL.png" width="100%" alt="Neural Networks and DL">
+      </a>
+      <br><b>Neural Networks & Deep Learning</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="./credentials/MCP.png">
+        <img src="./credentials/MCP.png" width="100%" alt="Model Context Protocol">
+      </a>
+      <br><b>Model Context Protocol</b>
+    </td>
+    <td align="center" width="33%">
+      <a href="./credentials/CrewAI.png">
+        <img src="./credentials/CrewAI.png" width="100%" alt="CrewAI">
+      </a>
+      <br><b>CrewAI</b>
+    </td>
+    <td align="center" width="33%">
+      <a href="./credentials/Attention%20in%20Transformers.jpg">
+        <img src="./credentials/Attention%20in%20Transformers.jpg" width="100%" alt="Attention in Transformers">
+      </a>
+      <br><b>Attention in Transformers</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="./credentials/Attention_DeepML.png">
+        <img src="./credentials/Attention_DeepML.png" width="100%" alt="Attention DeepML">
+      </a>
+      <br><b>Attention Mechanism</b>
+    </td>
+    <td align="center" width="33%">
+      <a href="./credentials/Linear_Algebra_DeepML.png">
+        <img src="./credentials/Linear_Algebra_DeepML.png" width="100%" alt="Linear Algebra">
+      </a>
+      <br><b>Linear Algebra</b>
+    </td>
+    <td align="center" width="33%">
+    </td>
+  </tr>
+</table>
+
 ## 📫 Connect with Me
 
 - Email: sattyashtikar@gmail.com
