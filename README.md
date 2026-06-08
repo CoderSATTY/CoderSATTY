@@ -145,7 +145,7 @@ During my professional journey, I have had the opportunity to contribute to impa
     </td>
     <td align="center" width="33%">
       <a href="./credentials/CrewAI.png">
-        <img src="./credentials/CrewAI.png" width="100%" alt="CrewAI">
+        <img src="./credentials/CrewAI.png" width="100%" alt="Agentic AI">
       </a>
       <br><b>CrewAI</b>
     </td>
