@@ -5,7 +5,7 @@
   <br/>
   <br/>
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/satyam-ashtikar-22369331b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/satyam-ashtikar/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sattyashtikar@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CoderSATTY)
 
@@ -177,7 +177,7 @@ During my professional journey, I have had the opportunity to contribute to impa
 ## 📫 Connect with Me
 
 - Email: sattyashtikar@gmail.com
-- LinkedIn: [Satyam Ashtikar](https://linkedin.com/in/satyam-ashtikar-22369331b)
+- LinkedIn: [Satyam Ashtikar](https://linkedin.com/in/satyam-ashtikar/)
 - GitHub: [@CoderSATTY](https://github.com/CoderSATTY)
 
 ---
