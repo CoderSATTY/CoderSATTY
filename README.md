@@ -147,13 +147,13 @@ During my professional journey, I have had the opportunity to contribute to impa
       <a href="./credentials/CrewAI.png">
         <img src="./credentials/CrewAI.png" width="100%" alt="Agentic AI">
       </a>
-      <br><b>CrewAI</b>
+      <br><b>Agentic AI</b>
     </td>
     <td align="center" width="33%">
       <a href="./credentials/Attention%20in%20Transformers.jpg">
         <img src="./credentials/Attention%20in%20Transformers.jpg" width="100%" alt="Attention in Transformers:PyTorch">
       </a>
-      <br><b>Attention in Transformers</b>
+      <br><b>Attention in Transformers:PyTorch</b>
     </td>
   </tr>
   <tr>
