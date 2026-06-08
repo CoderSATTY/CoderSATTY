@@ -151,7 +151,7 @@ During my professional journey, I have had the opportunity to contribute to impa
     </td>
     <td align="center" width="33%">
       <a href="./credentials/Attention%20in%20Transformers.jpg">
-        <img src="./credentials/Attention%20in%20Transformers.jpg" width="100%" alt="Attention in Transformers">
+        <img src="./credentials/Attention%20in%20Transformers.jpg" width="100%" alt="Attention in Transformers:PyTorch">
       </a>
       <br><b>Attention in Transformers</b>
     </td>
