@@ -1,4 +1,3 @@
-# Hi there, I'm Satyam Ashtikar 👋
 
 <div align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250" alt="Coding Cat"/>
@@ -11,6 +10,7 @@
 
 </div>
 
+# Hi there, I'm Satyam Ashtikar 👋
 ## About Me
 
 B.Tech in Mechanical Engineering at Indian Institute of Technology, Indore. Deeply passionate about building intelligent systems and scalable pipelines. My primary interests lie in **AI/ML and System Design**, with a specific focus on **Generative AI**, **NLP with LLMs**, **Computer Vision**, and **Backend Development**. I enjoy leveraging state-of-the-art models to solve complex, real-world challenges while ensuring robust and efficient system architecture.
