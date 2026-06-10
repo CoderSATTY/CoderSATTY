@@ -98,10 +98,8 @@ B.Tech in Mechanical Engineering at Indian Institute of Technology, Indore. Deep
 During my professional journey, I have had the opportunity to contribute to impactful roles in AI and Data Science:
 
 - **ML & DevOps Intern @ Insurge AI** *(Dec 2025 – Mar 2026)*  
-  I engineered and deployed scalable, agentic pipelines using GCP and WebSockets for real-time responsiveness. Additionally, I optimized sophisticated TTS/STT architectures, fine-tuning the Kokoro TTS model to achieve lightning-fast audio generation with a 2.5x real-time factor, effectively cutting inference latency down to just 400ms.
 
 - **Data Scientist Intern @ Stockhunt INC.** *(May 2025 – July 2025)*  
-  I focused on advanced algorithmic trading by developing Attention mechanisms and LSTM time-series models. I built robust data extraction pipelines for TradingView, enabling live ticker streaming. By fusing high-frequency data with news sentiment analysis, I successfully deployed rolling forecast systems that achieved a 56.4% directional accuracy and a strong 1.38 Sharpe ratio.
 
 ## 🌟 Open Source & Achievements
 
