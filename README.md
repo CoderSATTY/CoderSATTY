@@ -14,7 +14,92 @@
 # Hi there, I'm Satyam Ashtikar 👋
 ## About Me
 
-B.Tech in Mechanical Engineering at Indian Institute of Technology, Indore. Deeply passionate about building intelligent systems and scalable pipelines. My primary interests lie in **AI/ML and System Design**, with a specific focus on **Generative AI**, **NLP with LLMs**, **Computer Vision**, and **Backend Development**. I enjoy leveraging state-of-the-art models to solve complex, real-world challenges while ensuring robust and efficient system architecture.
+I am Satyam Ashtikar, a pre-final year student from Pune, Maharashtra. I am deeply passionate about building intelligent systems and scalable pipelines. My primary focus lies in **Generative AI**, **NLP with LLMs**, and high-performance **Computer Vision**. I love exploring new AI tools and constantly learning about **System Design** and **Backend Development** to build robust architectures. When I'm not coding, you'll likely find me playing chess or football, or out hiking and exploring historic forts :)
+
+
+
+## 💼 Experience
+
+During my professional journey, I have had the opportunity to contribute to impactful roles in AI and Data Science:
+
+- **ML & DevOps Intern @ Insurge AI** *(Dec 2025 – Mar 2026)*  
+  Engineered scalable agentic pipelines on a cloud backend utilizing WebSockets for real-time responsiveness, and applied transfer learning to fine-tune advanced Text-to-Speech architectures alongside robust Speech-to-Text integration for highly optimized, low-latency audio streaming.
+
+- **Data Scientist Intern @ Stockhunt INC.** *(May 2025 – July 2025)*  
+  Developed sophisticated Attention and LSTM time-series models for high-frequency algorithmic trading by building data pipelines for live ticker streaming, fusing these quantitative features with news sentiment analysis to power robust rolling-forecast systems.
+
+## 🌟 Open Source & Achievements
+
+- **PyTorch Contributor**: Actively contributed to the core PyTorch library by fixing missing allocator guards in `torch.accelerator.memory` to resolve RuntimeError crashes ([PR #186269](https://github.com/pytorch/pytorch/pull/186269)).
+- **Leadership**: Serving as the Head of the Machine Learning Domain at Google Developer Groups (GDG), IIT Indore, and Co-Head at Cynaptics Club.
+- **Bronze Medal @ Inter IIT**: Clinched the Bronze Medal at the prestigious Inter IIT Tech Meet 14.0, achieving an impressive 9th place overall rank among all IITs in the project category.
+- **Bronze Medal @ IITI SoC**: Won Bronze at the IITI Summer of Code (among 100+ teams and 400+ participants).
+- **Gold Medal @ Hacksync 26**: Engineered SwipeHire, a Tinder-style job app featuring semantic matching and OCR, winning Gold among 25+ teams.
+- **Competitive Programming**: Solved 300+ advanced algorithmic problems across platforms.
+  - **LeetCode**: [@WhileTrueSatty](https://leetcode.com/u/WhileTrueSatty/)
+  - **Codeforces**: [@Satty80085](https://codeforces.com/profile/Satty80085) (Max 1220, Pupil)
+  - **Deep-ML**: [@Satyam Ashtikar](https://www.deep-ml.com/profile/F7UE7evmlJfuJ2ujaFYZgZI5PAJ2)
+
+## 🏆 Certifications
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <a href="./credentials/insurge-certificate.png">
+        <img src="./credentials/insurge-certificate.png" width="100%" alt="InsurgeAI">
+      </a>
+      <br><b>InsurgeAI</b>
+    </td>
+    <td align="center" width="33%">
+      <a href="./credentials/StockHunt.png">
+        <img src="./credentials/StockHunt.png" width="100%" alt="StockHunt">
+      </a>
+      <br><b>StockHunt</b>
+    </td>
+    <td align="center" width="33%">
+      <a href="./credentials/Neural_Networks_and_DL.png">
+        <img src="./credentials/Neural_Networks_and_DL.png" width="100%" alt="Neural Networks and DL">
+      </a>
+      <br><b>Neural Networks & Deep Learning</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="./credentials/MCP.png">
+        <img src="./credentials/MCP.png" width="100%" alt="Model Context Protocol">
+      </a>
+      <br><b>Model Context Protocol</b>
+    </td>
+    <td align="center" width="33%">
+      <a href="./credentials/CrewAI.png">
+        <img src="./credentials/CrewAI.png" width="100%" alt="Agentic AI">
+      </a>
+      <br><b>Agentic AI</b>
+    </td>
+    <td align="center" width="33%">
+      <a href="./credentials/Attention%20in%20Transformers.jpg">
+        <img src="./credentials/Attention%20in%20Transformers.jpg" width="100%" alt="Attention in Transformers:PyTorch">
+      </a>
+      <br><b>Attention in Transformers:PyTorch</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="./credentials/Attention_DeepML.png">
+        <img src="./credentials/Attention_DeepML.png" width="100%" alt="Attention DeepML">
+      </a>
+      <br><b>Attention Mechanism</b>
+    </td>
+    <td align="center" width="33%">
+      <a href="./credentials/Linear_Algebra_DeepML.png">
+        <img src="./credentials/Linear_Algebra_DeepML.png" width="100%" alt="Linear Algebra">
+      </a>
+      <br><b>Linear Algebra</b>
+    </td>
+    <td align="center" width="33%">
+    </td>
+  </tr>
+</table>
 
 ## 🛠️ Tech Stack
 
@@ -91,87 +176,6 @@ B.Tech in Mechanical Engineering at Indian Institute of Technology, Indore. Deep
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Modal](https://img.shields.io/badge/Modal-000000?style=for-the-badge&logo=modal&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white)
-
-
-## 💼 Experience
-
-During my professional journey, I have had the opportunity to contribute to impactful roles in AI and Data Science:
-
-- **ML & DevOps Intern @ Insurge AI** *(Dec 2025 – Mar 2026)*  
-
-- **Data Scientist Intern @ Stockhunt INC.** *(May 2025 – July 2025)*  
-
-## 🌟 Open Source & Achievements
-
-- **PyTorch Contributor**: Actively contributed to the core PyTorch library by fixing missing allocator guards in `torch.accelerator.memory` to resolve RuntimeError crashes ([PR #186269](https://github.com/pytorch/pytorch/pull/186269)).
-- **Leadership**: Serving as the Head of the Machine Learning Domain at Google Developer Groups (GDG), IIT Indore, and Co-Head at Cynaptics Club.
-- **Bronze Medal @ Inter IIT**: Clinched the Bronze Medal at the prestigious Inter IIT Tech Meet 14.0, achieving an impressive 9th place overall rank among all IITs in the project category.
-- **Bronze Medal @ IITI SoC**: Won Bronze at the IITI Summer of Code (among 100+ teams and 400+ participants).
-- **Competitive Programming**: Solved 300+ advanced algorithmic problems across platforms.
-  - **LeetCode**: [@WhileTrueSatty](https://leetcode.com/u/WhileTrueSatty/)
-  - **Codeforces**: [@Satty80085](https://codeforces.com/profile/Satty80085) (Max 1220, Pupil)
-  - **Deep-ML**: [@Satyam Ashtikar](https://www.deep-ml.com/profile/F7UE7evmlJfuJ2ujaFYZgZI5PAJ2)
-
-## 🏆 Certifications
-
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <a href="./credentials/insurge-certificate.png">
-        <img src="./credentials/insurge-certificate.png" width="100%" alt="InsurgeAI">
-      </a>
-      <br><b>InsurgeAI</b>
-    </td>
-    <td align="center" width="33%">
-      <a href="./credentials/StockHunt.png">
-        <img src="./credentials/StockHunt.png" width="100%" alt="StockHunt">
-      </a>
-      <br><b>StockHunt</b>
-    </td>
-    <td align="center" width="33%">
-      <a href="./credentials/Neural_Networks_and_DL.png">
-        <img src="./credentials/Neural_Networks_and_DL.png" width="100%" alt="Neural Networks and DL">
-      </a>
-      <br><b>Neural Networks & Deep Learning</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <a href="./credentials/MCP.png">
-        <img src="./credentials/MCP.png" width="100%" alt="Model Context Protocol">
-      </a>
-      <br><b>Model Context Protocol</b>
-    </td>
-    <td align="center" width="33%">
-      <a href="./credentials/CrewAI.png">
-        <img src="./credentials/CrewAI.png" width="100%" alt="Agentic AI">
-      </a>
-      <br><b>Agentic AI</b>
-    </td>
-    <td align="center" width="33%">
-      <a href="./credentials/Attention%20in%20Transformers.jpg">
-        <img src="./credentials/Attention%20in%20Transformers.jpg" width="100%" alt="Attention in Transformers:PyTorch">
-      </a>
-      <br><b>Attention in Transformers:PyTorch</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <a href="./credentials/Attention_DeepML.png">
-        <img src="./credentials/Attention_DeepML.png" width="100%" alt="Attention DeepML">
-      </a>
-      <br><b>Attention Mechanism</b>
-    </td>
-    <td align="center" width="33%">
-      <a href="./credentials/Linear_Algebra_DeepML.png">
-        <img src="./credentials/Linear_Algebra_DeepML.png" width="100%" alt="Linear Algebra">
-      </a>
-      <br><b>Linear Algebra</b>
-    </td>
-    <td align="center" width="33%">
-    </td>
-  </tr>
-</table>
 
 ## 📫 Connect with Me
 
