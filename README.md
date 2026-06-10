@@ -14,14 +14,13 @@
 # Hi there, I'm Satyam Ashtikar 👋
 ## About Me
 
-I am Satyam Ashtikar, a pre-final year student from Pune, Maharashtra. I am deeply passionate about building intelligent systems and scalable pipelines. My primary focus lies in **Generative AI**, **NLP with LLMs**, and high-performance **Computer Vision**. I love exploring new AI tools and constantly learning about **System Design** and **Backend Development** to build robust architectures. When I'm not coding, you'll likely find me playing chess or football, or out hiking and exploring historic forts :)
+I am a pre-final year **B.Tech Mechanical Engineering** student at **IIT Indore**, originally from Pune, Maharashtra. I am deeply passionate about building intelligent systems and scalable pipelines. My primary focus lies in **Generative AI**, **NLP with LLMs**, and high-performance **Computer Vision**. I love exploring new AI tools and constantly learning about **System Design** and **Backend Development** to build robust architectures. When I'm not coding, you'll likely find me playing chess or football, or out hiking and exploring historic forts :)
 
 
 
 ## 💼 Experience
 
 During my professional journey, I have had the opportunity to contribute to impactful roles in AI and Data Science:
-
 - **ML & DevOps Intern @ Insurge AI** *(Dec 2025 – Mar 2026)*  
   Engineered scalable agentic pipelines on a cloud backend utilizing WebSockets for real-time responsiveness, and applied transfer learning to fine-tune advanced Text-to-Speech architectures alongside robust Speech-to-Text integration for highly optimized, low-latency audio streaming.
 
@@ -156,6 +155,9 @@ During my professional journey, I have had the opportunity to contribute to impa
 ### Databases & Storage
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FC6A03?style=for-the-badge)
+![Qdrant](https://img.shields.io/badge/Qdrant-D03B42?style=for-the-badge)
 
 ### Development Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -176,7 +178,8 @@ During my professional journey, I have had the opportunity to contribute to impa
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Modal](https://img.shields.io/badge/Modal-000000?style=for-the-badge&logo=modal&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white)
-
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ## 📫 Connect with Me
 
 - Email: sattyashtikar@gmail.com
