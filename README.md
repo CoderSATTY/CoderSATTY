@@ -39,6 +39,50 @@ During my professional journey, I have had the opportunity to contribute to impa
   - **Codeforces**: [@Satty80085](https://codeforces.com/profile/Satty80085) (Max 1220, Pupil)
   - **Deep-ML**: [@Satyam Ashtikar](https://www.deep-ml.com/profile/F7UE7evmlJfuJ2ujaFYZgZI5PAJ2)
 
+## 🚀 Featured Projects
+
+- **Attira AI - Virtual Try-On Platform**  
+  A state-of-the-art virtual try-on platform that significantly outperforms commercial models in image realism. It is powered by an advanced agentic pipeline utilizing FLUX Fill + Redux alongside a fine-tuned SegFormer B2. Optimized with FP8 quantization & regional compilation to cut cold-starts 6x on Modal Labs.  
+  [Website](https://attira-nu.vercel.app) | [Docs](https://attira-nu.vercel.app/docs) | [GitHub](https://github.com/YashBhamare123/TryOnPort)
+
+- **Causal Flux - Hybrid Vector + Graph RAG**  
+  A causality-aware RAG to analyze complex service transcripts. Leverages multi-hop reasoning via agents, cross-encoder reranking, PPR, and agglomerative clustering for optimal retrieval, validated by rigorous ablation studies.  
+  [Demo](https://www.youtube.com/watch?v=5CY9jB4rwU4) | [GitHub](https://github.com/ThunderBolt4931/Causal-Flux)
+
+- **Voice and Gesture Control on Cobot**  
+  A real-time visual servoing & intent classification system fusing YOLO and visual agents. Achieves ultra-low latency by bypassing ROS via a custom TCP/IP SDK, featuring an autonomous pipeline driven by STT & streaming ML.  
+  [Blog](https://addverb.ai/blog/voice-and-gesture-control-on-a-cobot-iit-indore-addverb-syncro-5) | [GitHub](https://github.com/CoderSATTY/Cobot-processing)
+
+- **Voiz AI - Conversational Voice Pipeline**  
+  An end-to-end voice-to-voice AI enabling natural real-time interactions. Powered by AI agents for low-latency audio processing, bridging advanced speech recognition with highly expressive text-to-speech in a single fluid stream.  
+  [Demo](https://www.youtube.com/watch?v=Raw870zI6Jg) | [GitHub](https://github.com/CoderSATTY/Voice-to-Voice)
+
+- **SwipeHire - Tinder-style Job Matches**  
+  A Tinder-style job platform (Gold at Hacksync 26), matching candidates via semantic search, RAG, & OCR. Uses a custom JobSpy MCP to scrape and deliver highly personalized job matches tailored dynamically to user activity.  
+  [Website](https://swipehire-lime.vercel.app/) | [GitHub](https://github.com/CoderSATTY/Jobs-Tinder)
+
+- **Edigen AI - Editing & Image Generation Platform**  
+  An editing and image generation platform optimized for low inference on edge devices. It utilizes advanced model pruning & knowledge distillation to cut computational overhead while maintaining high fidelity.  
+  [GitHub](https://github.com/ThunderBolt4931/Edigen-AI)
+
+- **Assignment Solver - Automated Homework Agent**  
+  An intelligent automation agent that parses and solves academic tasks. Integrates an agentic system, Classroom MCP, multimodal extraction, and LLM reasoning to generate step-by-step solutions directly from documents.  
+  [GitHub](https://github.com/CoderSATTY/Assignment_solver)
+
+- **JoSH AI - JoSAA Student Helper**  
+  An AI assistant decoding JoSAA counseling using official OR-CR data. Powered by an agentic RAG system (FastAPI, Groq LLM) with real-time web search to deliver fast, source-backed insights for category-specific queries.  
+  [Website](https://josh-ai-gilt.vercel.app/)
+
+- **LeetComp AI - LeetCode Personalized Hint Recommender**  
+  An industry-grade AI Tutor Chrome extension serving daily active users with real-time coding guidance. Actively assists competitive programmers with dynamic hints & algorithmic insights directly inside their browser environment.  
+  [Chrome Extension](https://chromewebstore.google.com/detail/dpmibfgdhdmhljnobomioehgbdmmepkd) | [GitHub](https://github.com/CoderSATTY/leetcomp)
+
+- **Gesture Controller - Dr. Driving Game**  
+  A computer vision-based gesture recognition system letting users play "Dr. Driving" via hand movements. Utilizes MediaPipe & OpenCV to map physical gestures into in-game controls for an immersive, hands-free experience.  
+  [GitHub](https://github.com/CoderSATTY/Gesture-Controller-for-Dr.-Driving)
+
+... And many more [Here](https://github.com/CoderSATTY?tab=repositories)!  
+
 ## 🏆 Certifications
 
 <table align="center">
