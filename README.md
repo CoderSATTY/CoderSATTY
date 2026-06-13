@@ -14,7 +14,7 @@
 # Hi there, I'm Satyam Ashtikar 👋
 ## About Me
 
-I am a pre-final year **B.Tech Mechanical Engineering** student at **IIT Indore**, originally from Pune, Maharashtra. I am deeply passionate about building intelligent systems and scalable pipelines. My primary focus lies in **Generative AI**, **NLP with LLMs**, and high-performance **Computer Vision**. I love exploring new AI tools and constantly learning about **System Design** and **Backend Development** to build robust architectures. When I'm not coding, you'll likely find me playing chess or football, or out hiking and exploring historic forts :)
+I am a pre-final year **B.Tech Mechanical Engineering** student at **IIT Indore**, originally from Pune, Maharashtra. I am deeply passionate about building intelligent systems and scalable pipelines. My primary focus lies in **Generative AI**, **NLP with LLMs**, and high-performance **Computer Vision**. I love exploring new AI tools and constantly learning about **System Design** and **Backend Development** to build robust architectures. When I'm not coding, you'll likely find me playing chess or football, or out hiking and exploring places where I never have been to :)
 
 
 
